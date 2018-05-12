@@ -1,0 +1,32 @@
+_repo: Po-zy--13-Nieuwe-Bloemlezing-uit-de-dichtwerken-van-J.J.L-ten-Kate_17484
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kate, J. J. L. ten (Jan Jakob Lodewijk)
+    aliases:
+    - Kate, Jan Jakob Lodewijk ten
+    - Ten Kate, J. J. L. (Jan Jakob Lodewijk)
+    birthdate: 1819
+    deathdate: 1889
+    gutenberg_agent_id: '7419'
+    url: http://www.gutenberg.org/2009/agents/7419
+    wikipedia:
+    - http://www.dbnl.nl/auteurs/auteur.php?id=kate001
+    - http://nl.wikipedia.org/wiki/Jan_Jakob_Lodewijk_ten_Kate
+description: ''
+gutenberg_issued: '2006-01-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17484'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Religious poetry, Dutch'
+title: "Poëzy\r\nNieuwe Bloemlezing uit de dichtwerken van J.J.L ten Kate"
+url: http://www.gutenberg.org/ebooks/17484
