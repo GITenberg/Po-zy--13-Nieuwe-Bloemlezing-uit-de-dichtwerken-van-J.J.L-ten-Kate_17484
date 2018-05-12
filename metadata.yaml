@@ -17,6 +17,8 @@ creator:
     - http://www.dbnl.nl/auteurs/auteur.php?id=kate001
     - http://nl.wikipedia.org/wiki/Jan_Jakob_Lodewijk_ten_Kate
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17484#Po-zy--13-Nieuwe-Bloemlezing-uit-de-dichtwerken-van-J.J.L-ten-Kate
 gutenberg_issued: '2006-01-09'
 gutenberg_type: Text
 identifiers:
